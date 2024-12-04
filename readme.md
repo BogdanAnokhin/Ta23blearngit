@@ -8,3 +8,6 @@ change 3
 =======
 feature 3
 >>>>>>> 567454f (Add feature 3 line)
+
+feature 4
+feature 5
